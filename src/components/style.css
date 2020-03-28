@@ -1,0 +1,16 @@
+ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+ul li a{
+    color: aliceblue;
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+}
+#___gatsby{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
